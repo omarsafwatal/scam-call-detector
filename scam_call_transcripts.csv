@@ -1,0 +1,6 @@
+Call_ID,Transcript,Contains_Scam_Keywords
+101,Congratulations! You've won a free gift card. Provide your card details to claim it.,Yes
+102,"Hello, this is your bank. Please confirm your OTP to update your KYC.",Yes
+103,"Hi, just checking in about your recent order on Amazon. No action needed.",No
+104,Get rich quick! Invest in crypto now. Send payment to this address to begin.,Yes
+105,Reminder: Your bill is due. Visit our secure site to pay with your card.,Maybe
